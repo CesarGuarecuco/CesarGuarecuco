@@ -8,9 +8,12 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="R" width="50" height="50" title="R & RStudio"/> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" title="Java"/>
+  <img src= "https://img.icons8.com/color/48/rstudio.png" alt="R" width="50" height="50" title="R & RStudio"/> 
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" title="Java"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" title="MySQL"/>
-  <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="50" height="50" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50" title="Power BI"/> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="50" height="50" title="Excel Avanzado"/> </div>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="HTML5" width="50" height="50" title="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50" title="Power BI"/> 
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="50" height="50" title="Excel Avanzado"/> </div>
 
 <br>
 
