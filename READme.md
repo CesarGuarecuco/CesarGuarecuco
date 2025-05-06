@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src= "https://img.icons8.com/color/48/rstudio.png" alt="R" width="50" height="50" title="R & RStudio"/> 
+  <img src= "https://static-00.iconduck.com/assets.00/rstudio-icon-2048x2048-as3h664f.png" alt="R" width="50" height="50" title="R & RStudio"/> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" title="Java"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" title="MySQL"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="HTML5" width="50" height="50" title="HTML5"/> 
