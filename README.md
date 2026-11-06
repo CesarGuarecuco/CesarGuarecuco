@@ -2,14 +2,23 @@
 
 Construyo paneles en Power BI, automatizo planillas e informes con Python, Excel y Google Apps Script, y desarrollo sistemas de seguimiento estudiantil para instituciones educativas. Soy el responsable de **[Sivax Intelligence](https://sivax-intelligent.netlify.app/)**.
 
-**Lo que hice en 2026** para una institución de educación superior con 4 sedes:
+#### Áreas de experiencia
 
-- Una base central de estudiantes en Python, SQLite y Excel, que alimenta paneles, proyecciones e informes.
-- Un panel de retención en Power BI con seguridad por sede y una lista semanal de estudiantes a contactar.
-- La proyección de rematrícula 2027 e informes semanales automáticos por sede.
-- Evaluadores automáticos de Excel con Google Sheets, Apps Script y WordPress, con registro de cada intento y respaldo diario.
+- **Educación**: seguimiento y retención estudiantil, alertas tempranas de deserción, proyección de matrícula y evaluación automática.
+- **Salud**: bases de datos clínicas y modelos de clasificación de pacientes.
+- **Seguridad y operaciones**: análisis de datos de seguridad, control de operaciones e inventario.
+- **Comercio y finanzas**: paneles de ventas, recursos humanos y predicción de ingresos de clientes.
 
-El código y los datos de ese trabajo son de la institución y no se publican. Los proyectos de abajo son públicos.
+#### Machine learning
+
+| Tipo de problema | Modelos y técnicas que he usado |
+| --- | --- |
+| Clasificación | KNN, SVM, Random Forest, Extra Trees, AdaBoost, XGBoost |
+| Regresión | KNN, Random Forest, XGBoost, LightGBM, ajuste de hiperparámetros con GridSearchCV |
+| Agrupamiento y reducción | K-Means (método del codo), PCA |
+| Datos desbalanceados | SMOTE, evaluación con precisión, recall y F1 |
+| Series de tiempo | AR, MA, ARIMA, SARIMA, ARIMAX, SARIMAX |
+| Deep learning | Redes neuronales en PyTorch y Keras, CNN, RNN, LSTM, GRU, explicación de modelos con LIME |
 
 #### Proyectos
 
